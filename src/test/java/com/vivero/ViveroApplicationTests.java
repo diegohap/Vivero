@@ -1,10 +1,10 @@
-package com.vivero.main;
+package com.vivero;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MainApplicationTests {
+class ViveroApplicationTests {
 
 	@Test
 	void contextLoads() {
